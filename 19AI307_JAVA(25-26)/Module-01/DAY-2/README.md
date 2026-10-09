@@ -37,8 +37,8 @@ Otherwise → Display "Access Denied"
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: NITHYASREE S
-RegisterNumber: 212224040225
+Developed by: Arshiya M
+RegisterNumber: 212224040029
 */
 ```
 
